@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=D7 Old Footprint=1206_O New Footprint=1206_D
+Change Component Footprint: Designator=U3 Old Footprint=1206_O New Footprint=SOT23
+Change Component Footprint: Designator=Q1 Old Footprint=TO247V2 New Footprint=TO-247AC_V
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=NetC3_2 Pin=D7-K
+Added Pin To Net: NetName=NetQ1_B Pin=Q1-B
+Added Pin To Net: NetName=NetD5_A Pin=Q1-C
+Added Pin To Net: NetName=NetQ1_E Pin=Q1-E
+Added Pin To Net: NetName=NetC10_1 Pin=U3-B
+Added Pin To Net: NetName=NetC6_2 Pin=U3-C
+Added Pin To Net: NetName=NetR12_2 Pin=U3-E
