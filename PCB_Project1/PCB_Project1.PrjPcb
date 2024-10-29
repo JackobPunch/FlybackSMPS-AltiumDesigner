@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EOWYVUIT
 
 [Document3]
-DocumentPath=..\libraries\alt_sch.schlib
+DocumentPath=..\..\..\..\Public\Documents\Altium\libraries\alt_sch.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\libraries\alt_pcb.pcblib
+DocumentPath=..\..\..\..\Public\Documents\Altium\libraries\alt_pcb.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
